@@ -70,6 +70,13 @@ The analysis helps identify **customer segments, revenue trends, and buying patt
 
 ---
 
+## Screenshots / Demos
+
+Show what the dashboard looks like.
+Example: ![Dashboard Preview].(https://github.com/manishsinghtomar/Customer-Shopping-Behavior-Analysis/blob/main/Snapshot_of_dashboard.png)
+
+---
+
 ## 👤 Author
 
 **Manish Tomar**
